@@ -24,6 +24,9 @@ export const Button = styled("button", {
   "&:disabled": {
     cursor: "not-allowed",
   },
+  "&:focus": {
+    boxShadow: "0 0 0 2px $colors$ignite500",
+  },
 
   variants: {
     variant: {
