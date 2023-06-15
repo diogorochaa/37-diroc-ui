@@ -32,7 +32,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/diogorochaa/diroc-ui-react
+$ git clone https://github.com/diogorochaa/diroc-ui-react.git
 
 # Access
 $ cd diroc-ui-react
